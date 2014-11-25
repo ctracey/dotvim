@@ -1,0 +1,33 @@
+[submodule ".vim/bundle/ack.vim"]
+	path = .vim/bundle/ack.vim
+	url = git://github.com/mileszs/ack.vim.git
+[submodule ".vim/bundle/ctrlp.vim"]
+	path = .vim/bundle/ctrlp.vim
+	url = git://github.com/kien/ctrlp.vim.git
+[submodule ".vim/bundle/minibufexpl.vim"]
+	path = .vim/bundle/minibufexpl.vim
+	url = git://github.com/fholgado/minibufexpl.vim.git
+[submodule ".vim/bundle/nerdtree"]
+	path = .vim/bundle/nerdtree
+	url = git://github.com/scrooloose/nerdtree.git
+[submodule ".vim/bundle/tComment"]
+	path = .vim/bundle/tComment
+	url = git://github.com/vim-scripts/tComment.git
+[submodule ".vim/bundle/vim-rspec"]
+	path = .vim/bundle/vim-rspec
+	url = git://github.com/thoughtbot/vim-rspec.git
+[submodule ".vim/bundle/vim-ruby"]
+	path = .vim/bundle/vim-ruby
+	url = git://github.com/vim-ruby/vim-ruby.git
+[submodule ".vim/bundle/ag.vim"]
+	path = .vim/bundle/ag.vim
+	url = git://github.com/rking/ag.vim
+[submodule ".vim/bundle/matchit"]
+	path = .vim/bundle/matchit
+	url = git@github.com:tmhedberg/matchit.git
+[submodule ".vim/bundle/ruby-matchit"]
+	path = .vim/bundle/ruby-matchit
+	url = git@github.com:vim-scripts/ruby-matchit.git
+[submodule ".vim/bundle/rspec.vim"]
+	path = .vim/bundle/rspec.vim
+	url = git@github.com:Keithbsmiley/rspec.vim.git
