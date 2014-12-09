@@ -14,6 +14,9 @@ set nocompatible
 set number
 set hlsearch
 
+" stop highlighting search matches on <esc>
+nnoremap <esc> :noh<return><esc>
+
 " Allow hiding edited bufferes
 set hidden
 
