@@ -109,5 +109,6 @@ map <Leader>l :call RunLastSpec()<CR>
 map <Leader>a :call RunAllSpecs()<CR>
 
 " add ruby debugger breakpoint
-map <Leader>d Irequire 'pry-rails'; binding.pry
-map <Leader>D Irequire 'byebug'; byebug
+map <Leader>d Orequire 'pry-rails'; binding.pry #RUBY-BREAKPOINT
+map <Leader>D Orequire 'byebug'; byebug #RUBY-BREAKPOINT
+map <Leader>B :Ag RUBY-BREAKPOINT -G.*.rb<CR>
