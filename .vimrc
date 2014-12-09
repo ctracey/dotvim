@@ -15,7 +15,7 @@ set number
 set hlsearch
 
 " stop highlighting search matches on <esc>
-nnoremap <esc> :noh<return><esc>
+map <Leader>h :noh<CR>
 
 " Allow hiding edited bufferes
 set hidden
