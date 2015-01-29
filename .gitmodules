@@ -32,5 +32,5 @@
 	path = .vim/bundle/rspec.vim
 	url = git@github.com:Keithbsmiley/rspec.vim.git
 [submodule ".vim/vim-fugitive"]
-	path = .vim/vim-fugitive
+	path = .vim/bundle/vim-fugitive
 	url = git@github.com:tpope/vim-fugitive.git
