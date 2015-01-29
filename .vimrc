@@ -115,3 +115,6 @@ map <Leader>a :call RunAllSpecs()<CR>
 map <Leader>d Orequire 'pry-rails'; binding.pry #RUBY-BREAKPOINT
 map <Leader>D Orequire 'byebug'; byebug #RUBY-BREAKPOINT
 map <Leader>B :Ag RUBY-BREAKPOINT -G.*.rb<CR>
+
+" source tree shortcut"
+map <Leader>gs :r !stree<CR>
